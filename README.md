@@ -1,5 +1,5 @@
 # CMS
-Homeworks for course Computational Methods of Science
+Homework 1 for course Computational Methods of Science
 
 import numpy as np
 import matplotlib.pyplot as pit
